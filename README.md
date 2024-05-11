@@ -14,8 +14,9 @@ Oleh karena itu, proyek ini bertujuan untuk mengurangi tingkat dropout di Jaya j
 
 
 URL Dashboard ; https://public.tableau.com/app/profile/da.riant/viz/JayaJayaInstitutStudentDashboard/Dashboard1?publish=yes
+URL Video : https://drive.google.com/file/d/1l--bXvB8T17C_IeZHdqAbbfKqnTFle7H/view?usp=drive_link
 
- Dashboard diatas merupakan visualisasi hasil analisa dari proyek untuk mengurangi jumlah siswa dropout di Jaya jaya institut, Dashboard tersebut bertujuan untuk memberikan insight kepada team terkait.
+Dashboard diatas merupakan visualisasi hasil analisa dari proyek untuk mengurangi jumlah siswa dropout di Jaya jaya institut, Dashboard tersebut bertujuan untuk memberikan insight kepada team terkait.
 
 ## Kesimpulan
 1. Tidak ada perbedaan yang signifikan jumlah siswa berstatus dropout berdasarkan jenis kelamin.
