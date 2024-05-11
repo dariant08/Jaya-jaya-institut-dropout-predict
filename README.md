@@ -10,7 +10,7 @@ Oleh karena itu, proyek ini bertujuan untuk mengurangi tingkat dropout di Jaya j
 2. Melakukan analisa dan membuat sebuah dashboard untuk mencari faktor penyebab tingginya dropout dan memberikan rekomendasi action untuk mengatasi/ mengurangi jumlah siswa yang dropout.
 
 ## Bisnis Dashboard
-![Dashboard](https://github.com/dariant08/Jaya-jaya-institut-dropout-predict/assets/150717472/84b3c3c2-6b2c-403e-b58d-454dca8371fa)
+![Dashboard](https://github.com/dariant08/Jaya-jaya-institut-dropout-predict/assets/150717472/cdf9eaa3-166c-4a8f-837d-aa26fbb05822)
 
 URL Dashboard ; https://public.tableau.com/app/profile/da.riant/viz/JayaJayaInstitutStudentDashboard/Dashboard1?publish=yes
 
